@@ -3,7 +3,7 @@
 **Loteria**
 Użytkownik, podobnie jak w klasycznym totolotku, podaje ciąg 6 swoich liczb w zakresie od 1 do 50. Komputer niezależnie losuje 6 liczb totolotka.
 
-Wygrana zależy od tego ile cyfr zostało trafionych przez użytkownika
+Wygrana zależy od tego ile liczb zostało trafionych przez użytkownika
 
 Stopnień wygranych	Trafienia	Twoja wygrana
 
