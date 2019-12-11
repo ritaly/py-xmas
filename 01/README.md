@@ -14,4 +14,4 @@ Przetestuj kod dla następujących przypadków:
 - Próba wyświetlania ujemnej liczby elementów
 - Próba wyświetlenia zerowej liczby elementów listy
 
-Rozwiązanie: http://getitjob.pl/2019/07/01/akcja-rekrutacja-python-1/
+Rozwiązanie z opisem: http://getitjob.pl/2019/07/01/akcja-rekrutacja-python-1/
