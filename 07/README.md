@@ -14,4 +14,4 @@ Stopnień wygranych	Trafienia	Twoja wygrana
 | 3                | 4         | 100           |
 | 4                | 3         | 10            |
 
-Wyświetl komunikat o wygranej np. "Wygrałeś nagrodę *stopien_wygranej* stopnia. Kwota wygranej wynosi: *kwota* ""
+Wyświetl komunikat o wygranej np. "Wygrałeś nagrodę *stopien_wygranej* stopnia. Kwota wygranej wynosi: *kwota* "
