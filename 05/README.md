@@ -45,6 +45,6 @@ Przy czym sama funkcja z wczoraj nie powinna się tak naprawdę zmienić 🙂
 
 **Gdy wyczerpią się inne środki:**
 
-Przykład "odpakowania" timestampu do formatu czasu: hint01.py
-Przykład "zapakowania" daty w timestamp: hint02.py
+- Przykład "odpakowania" timestampu do formatu czasu: `hint01.py`
+- Przykład "zapakowania" daty w timestamp: `hint02.py`
 
