@@ -9,4 +9,5 @@ Uwaga: proszę nie używać gotowych metod listy np. do sortowania. Można za to
 Z modyfikuj funkcje `freq_function()`, aby przyjmowała opcjonalny parametr odwracający działanie `rev`. Jeżeli `rev=True` funkcja ma zadziałać odwrotnie - zwrócić element, o najmniejszej liczbie wystąpień
 
 Rozwiązanie: w folderze
+
 moda: https://www.kodolamacz.pl/blog/wyzwanie-python-3-rozwiazanie/#moda 
